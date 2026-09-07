@@ -4,7 +4,6 @@ A simple and interactive **Rule-Based AI Chatbot built with Python** that uses a
 
 The project demonstrates how conversational systems can be built using fundamental Python concepts such as dictionaries, functions, string processing, conditional logic, regular expressions, and session management.
 
----
 
 ## 📌 Project Overview
 
@@ -14,7 +13,6 @@ Instead of generating responses dynamically, it matches user input against prede
 
 The chatbot also includes several interactive features to make the conversation more engaging and user-friendly.
 
----
 
 ## ✨ Features
 
@@ -38,7 +36,6 @@ The chatbot also includes several interactive features to make the conversation 
 * 🚪 Exit and goodbye commands
 * 🎨 Colored terminal interface
 
----
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +47,6 @@ The chatbot also includes several interactive features to make the conversation 
 
 No external AI API or machine learning model is required.
 
----
 
 ## 📂 Project Structure
 
@@ -96,7 +92,6 @@ cd Rule-Based-Chatbot
 python chatbot.py
 ```
 
----
 
 ## 💬 Example Commands
 
@@ -174,7 +169,6 @@ The knowledge base contains predefined responses for several categories:
 
 This makes it easy to expand the chatbot by adding new questions and responses to `knowledge_base.py`.
 
----
 
 ## 📊 Session Features
 
@@ -193,7 +187,6 @@ Users can also clear the stored conversation history using:
 clear
 ```
 
----
 
 ## ⚠️ Limitations
 
@@ -209,7 +202,6 @@ It does not use:
 
 Therefore, questions outside the predefined knowledge base may result in a fallback response.
 
----
 
 ## 🔮 Future Improvements
 
@@ -223,7 +215,6 @@ Possible future improvements include:
 * Integrating a database for persistent memory
 * Connecting the chatbot to an AI/LLM API
 
----
 
 ## 🎯 Learning Outcomes
 
